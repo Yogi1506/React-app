@@ -1,0 +1,20 @@
+.container{
+    width: 400px;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 70%;
+    padding: 15px;
+    font-size: 15px;
+}
+
+button{
+    width: 20%;
+    padding: 17px 5px;
+}
